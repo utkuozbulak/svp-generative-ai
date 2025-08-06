@@ -44,13 +44,9 @@ This repository is organized as follows:
 
 To receive the weights of the trained models, please send an email to utku.ozbulak@ghent.ac.kr with a brief description of your intended use.
 
-Please note that the model weights are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
-
 ## :bar_chart: Data
 
 Generated data are available at: ....
-
-Please note that the generated data are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
 ## 📝 License
 
@@ -62,7 +58,8 @@ This code, models, and the dataset are licensed under a [Creative Commons Attrib
 
 **SA** – ShareAlike: If you remix or adapt it, you must share it under the same license.
 
-For commercial licensing inquiries, please contact [utku.ozbulak@ghent.ac.kr](mailto:utku.ozbulak@ghent.ac.kr).
+Please note that both the models and the generated data are licensed under the CC BY-NC-SA 4.0, which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
+For commercial licensing inquiries, please contact [utku.ozbulak@ghent.ac.kr](mailto:utku.ozbulak@ghent.ac.kr).
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
