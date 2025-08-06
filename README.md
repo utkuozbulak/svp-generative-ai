@@ -50,16 +50,18 @@ Generated data are available at: ....
 
 ## 📝 License
 
-This code, models, and the dataset are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This code, models, and dataset are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-**BY** – Attribution: You must give credit to the original creator.
-
-**NC** – NonCommercial: You can’t use it for commercial purposes.
-
+**BY** – Attribution: You must give credit to the original creator.  
+**NC** – NonCommercial: You can’t use it for commercial purposes.  
 **SA** – ShareAlike: If you remix or adapt it, you must share it under the same license.
 
-Please note that both the models and the generated data are licensed under the CC BY-NC-SA 4.0, which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
+This license applies to all components of this repository, including the trained models and the generated data, which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
-For commercial licensing inquiries, please contact [utku.ozbulak@ghent.ac.kr](mailto:utku.ozbulak@ghent.ac.kr).
+---
+
+This work is a research output from Ghent University, Belgium and Ghent University Global Campus, South Korea.
+For commercial licensing inquiries, please contact Utku Ozbulak 
+(EUR: [utku.ozbulak@ghent.ugent.be](mailto:utku.ozbulak@ghent.ugent.be) - Korea/US: [utku.ozbulak@ghent.ghent.ac.kr](mailto:utku.ozbulak@ghent.ghent.ac.kr)).
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
