@@ -61,7 +61,9 @@ This license applies to all components of this repository, including the trained
 ---
 
 This work is a research output from Ghent University, Belgium and Ghent University Global Campus, South Korea.
-For commercial licensing inquiries, please contact Utku Ozbulak 
-(EUR: [utku.ozbulak@ghent.ugent.be](mailto:utku.ozbulak@ghent.ugent.be) - Korea/US: [utku.ozbulak@ghent.ghent.ac.kr](mailto:utku.ozbulak@ghent.ghent.ac.kr)).
+
+For commercial licensing inquiries, please contact Utku Ozbulak
+
+EUR: [utku.ozbulak@ghent.ugent.be](mailto:utku.ozbulak@ghent.ugent.be) - Korea/US: [utku.ozbulak@ghent.ghent.ac.kr](mailto:utku.ozbulak@ghent.ghent.ac.kr).
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
