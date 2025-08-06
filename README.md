@@ -9,7 +9,7 @@ For queries, please reach out to: utku.ozbulak@ghent.ac.kr
 
 ## 🔬 Overview
 
-Flow Imaging Microscopy (FIM) is a powerful tool for sub-visible particle (SvP) detection in biopharmaceuticals. However, data imbalance, particularly underrepresentation of particle types such as silicone oil and air bubbles—hinders the performance of multi-class deep learning classifiers.
+Flow Imaging Microscopy (FIM) is a powerful tool for sub-visible particle (SvP) detection in biopharmaceuticals. However, data imbalance, particularly underrepresentation of particle types such as silicone oil and air bubbles, hinders the performance of multi-class deep learning classifiers.
 
 In this work, we develop and validate a diffusion-based generative AI approach to synthesize realistic images of underrepresented particle types. We demonstrate that augmenting datasets with these synthetic images improves classification performance across multiple architectures.
 
