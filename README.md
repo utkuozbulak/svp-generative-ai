@@ -4,7 +4,7 @@ This repository contains the official implementation, pretrained models, and sam
 
 **Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis**  
 Utku Ozbulak\*, Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve  
-(\* Corresponding author: [utku.ozbulak@ghent.ac.kr](mailto:utku.ozbulak@ghent.ac.kr)*)
+(\*Corresponding author: utku.ozbulak@ghent.ac.kr)
 
 ---
 
