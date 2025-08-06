@@ -40,11 +40,17 @@ This repository is organized as follows:
 
 * **Data** - *data/* folder contains a txt file with the appropriate link to the generated data, you can download this data and use it.
 
-## 🛠 Models
+## :card_index_dividers: Models
 
 To receive the weights of the trained models, please send an email to utku.ozbulak@ghent.ac.kr with a brief description of your intended use.
 
 Please note that the model weights are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
+
+## :bar_chart: Data
+
+Generated data are available at: ....
+
+Please note that the generated data are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
 ## 📝 License
 
