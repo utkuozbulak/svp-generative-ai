@@ -29,5 +29,29 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 
 ---
 
-## 🛠 Repository Structure
+## 🛠 Models and Repository Structure
 
+This repository is organized as follows:
+* **Code** - *src/* folder contains two subfolders: diffusion_code and classification_code, which contains code for their respective models
+
+*src/diffusion_code* contains code to load and generate images from the difussion model
+
+*src/classification_code* contains code to load classification models
+
+* **Data** - *data/* folder contains a txt file with the appropriate link to the generated data, you can download this data and use it.
+
+
+## 📝 License
+
+This code, models, and the dataset are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+**BY** – Attribution: You must give credit to the original creator.
+
+**NC** – NonCommercial: You can’t use it for commercial purposes.
+
+**SA** – ShareAlike: If you remix or adapt it, you must share it under the same license.
+
+For commercial licensing inquiries, please contact [utku.ozbulak@ghent.ac.kr](mailto:utku.ozbulak@ghent.ac.kr).
+
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
