@@ -29,7 +29,7 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 
 ---
 
-## 🛠 Models and Repository Structure
+## 🛠 Repository Structure
 
 This repository is organized as follows:
 * **Code** - *src/* folder contains two subfolders: diffusion_code and classification_code, which contains code for their respective models
@@ -40,6 +40,11 @@ This repository is organized as follows:
 
 * **Data** - *data/* folder contains a txt file with the appropriate link to the generated data, you can download this data and use it.
 
+## 🛠 Models
+
+To receive the weights of the trained models, please send an email to utku.ozbulak@ghent.ac.kr with a brief description of your intended use.
+
+Please note that the model weights are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0), which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
 ## 📝 License
 
