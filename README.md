@@ -21,10 +21,10 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 
 ---
 
-### Example Diffusion Process for SvPs
+### Example Diffusion Process for AI-Generated SvPs
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/diffusion_process.png">
 
-### Example Images 
+### Example Real and AI-Generated SvP Images 
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/real_generated.png">
 
 ---
