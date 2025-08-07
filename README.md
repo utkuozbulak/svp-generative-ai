@@ -46,7 +46,7 @@ To receive the weights of the trained models, please send an email to utku.ozbul
 
 ## :bar_chart: Data
 
-Generated data are available at: ....
+Generated data are available at: Coming soon!
 
 ## 📝 License
 
