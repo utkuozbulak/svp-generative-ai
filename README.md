@@ -16,7 +16,7 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 ## 📌 Key Contributions
 
 - ✅ A **diffusion model** trained on 64x64 real FIM images of underrepresented particle types (air bubbles and silicone oil).
-- ✅ Multi-class **deep neural network classifiers** (ResNet-18 and ResNet-50) trained on real and augmented datasets with state-of-the-art classification accuracy on 3 class classification (protein particles, air bubbles, silicone oil).
+- ✅ Multi-class deep neural network classifiers (ResNet-18 and ResNet-50), trained on real and augmented datasets, achieved state-of-the-art accuracy in three-class classification (protein particles, air bubbles, silicone oil), with a positive predictive value exceeding 95% for each class, evaluated on 500,000 protein particles.
 - ✅ Public release of all models and generated datasets.
 
 ### Example Diffusion Process for AI-Generated SvPs
