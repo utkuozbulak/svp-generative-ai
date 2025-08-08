@@ -19,6 +19,10 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 - ✅ Multi-class deep neural network classifiers (ResNet-18 and ResNet-50), trained on real and augmented datasets, achieved state-of-the-art accuracy in three-class classification (protein particles, air bubbles, silicone oil), with a positive predictive value exceeding 95% for each class, evaluated on 500,000 protein particles.
 - ✅ Public release of all models and generated datasets.
 
+
+### Visual Abstract
+<img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/Pharmacy_visual_abstract.png">
+
 ### Example Diffusion Process for AI-Generated SvPs
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/diffusion_process.png">
 
