@@ -23,10 +23,10 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 ### Visual Abstract for the Two Phases
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/Pharmacy_visual_abstract.png">
 
-### Example Diffusion Process for AI-Generated SvPs
+### Diffusion Process for AI-Generated SvPs
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/diffusion_process.png">
 
-### Example Real and AI-Generated SvP Images 
+### Real (obtained from FIM) and AI-Generated SvP Images 
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/real_generated.png">
 
 ## 🛠 Repository Structure
