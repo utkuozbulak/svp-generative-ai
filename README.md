@@ -16,7 +16,7 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 ## 📌 Key Contributions
 
 - ✅ Diffusion models trained on 64×64 real FIM images of underrepresented particle types (air bubbles and silicone oil) that can generate high-fidelity, diverse synthetic samples to address data imbalance.
-- ✅ 95% Positive predictive value (PPV) for each class (protein particles, air bubbles, silicone oil) using ResNet-18/50 classifiers trained on real + generated data, evaluated on 500k protein particles.
+- ✅ > 95% Positive predictive value (PPV) for each class (protein particles, air bubbles, silicone oil) using ResNet-18/50 classifiers trained on real + generated data, evaluated on 500k protein particles.
 - ✅ Public release of all models and generated datasets.
 
 ### Visual Abstract for the Two Phases
