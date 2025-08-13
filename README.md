@@ -15,10 +15,9 @@ In this work, we develop and validate a diffusion-based generative AI approach t
 
 ## 📌 Key Contributions
 
-- ✅ A **diffusion model** trained on 64x64 real FIM images of underrepresented particle types (air bubbles and silicone oil).
-- ✅ Multi-class deep neural network classifiers (ResNet-18 and ResNet-50), trained on real and augmented datasets, achieved state-of-the-art accuracy in three-class classification (protein particles, air bubbles, silicone oil), with a positive predictive value exceeding 95% for each class, evaluated on 500,000 protein particles.
+- ✅ Diffusion models trained on 64×64 real FIM images of underrepresented particle types (air bubbles and silicone oil) that can generate high-fidelity, diverse synthetic samples to address data imbalance.
+- ✅ 95% Positive predictive value (PPV) for each class (protein particles, air bubbles, silicone oil) using ResNet-18/50 classifiers trained on real + generated data, evaluated on 500k protein particles.
 - ✅ Public release of all models and generated datasets.
-
 
 ### Visual Abstract for the Two Phases
 <img src="https://raw.githubusercontent.com/utkuozbulak/svp-generative-ai/master/examples/Pharmacy_visual_abstract.png">
@@ -58,10 +57,22 @@ This code, models, and dataset are licensed under [Creative Commons Attribution-
 
 This license applies to all components of this repository, including the trained models and the generated data, which permits non-commercial use, requires proper attribution, and mandates that any derivatives be shared under the same terms.
 
----
-
 This work is a research output from Ghent University, Belgium and Ghent University Global Campus, South Korea.
 
 For commercial licensing inquiries, please contact Utku Ozbulak from utku.ozbulak@ghent.ac.kr
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## 📖 Citation
+
+If you find the code in this repository useful for your research, consider citing our paper. Also, feel free to use any visuals available here.
+
+    @misc{ozbulak2025improvedsubvisibleparticleclassification,
+          title={Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis}, 
+          author={Utku Ozbulak and Michaela Cohrs and Hristo L. Svilenov and Joris Vankerschaver and Wesley De Neve},
+          year={2025},
+          eprint={2508.06021},
+          archivePrefix={arXiv},
+          primaryClass={cs.CV},
+          url={https://arxiv.org/abs/2508.06021}, 
+    }
