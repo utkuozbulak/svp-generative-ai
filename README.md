@@ -5,8 +5,6 @@ This repository contains the official implementation, pretrained models, and sam
 **Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis**  
 Utku Ozbulak, Michaela Cohrs, Hristo L. Svilenov, Joris Vankerschaver, Wesley De Neve
 
-For queries, please reach out to: utku.ozbulak@ghent.ac.kr
-
 ## 🔬 Overview
 
 Flow Imaging Microscopy (FIM) is a powerful tool for sub-visible particle (SvP) detection in biopharmaceuticals. However, data imbalance, particularly underrepresentation of particle types such as silicone oil and air bubbles, hinders the performance of multi-class deep learning classifiers.
