@@ -43,7 +43,7 @@ To receive the weights of the trained models, please send an email to utku.ozbul
 
 ## :bar_chart: Data
 
-Generated data are available at: https://zenodo.org/records/16757225
+Representative examples of generated data are available at: https://zenodo.org/records/16757225
 
 ## 📝 License
 
